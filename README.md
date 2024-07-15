@@ -1,5 +1,4 @@
-# Literalura
-![Badge](https://github.com/vitor-fidelis/literalura/blob/main/imagens/badge%20literalura.png)
+
 
 
 Literalura é uma aplicação Java/Spring Boot para amantes de livros. Esta aplicação permite buscar livros, listar livros registrados, listar autores, e muitas outras funcionalidades relacionadas à leitura e organização de livros.
